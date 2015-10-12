@@ -1,7 +1,7 @@
 /**
  *  Alexa Helper
  *
- *  Copyright 2015 Michael Struck
+ *  Copyright 2015 Michael Struck (my test)
  *  Version 2.2.1 10/4/15
  * 
  *  Version 1.0.0 - Initial release
